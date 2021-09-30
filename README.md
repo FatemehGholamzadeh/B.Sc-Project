@@ -88,7 +88,15 @@ past values. It means that in AR model, we do not consider
 impact of variables on each other and each variable is forecasted 
 only with its own past values. Also, in table, for every variable in the VAR model, we 
 listed variables that are a cause for it. As you can see in the Table, the RMSEs of VAR model are less than AR model.  
-![image](https://user-images.githubusercontent.com/44861408/135466471-a62f6c62-c8bf-4e2d-99f3-b028a5e6c48c.png)
+![image](https://user-images.githubusercontent.com/44861408/135466471-a62f6c62-c8bf-4e2d-99f3-b028a5e6c48c.png)  
+
+### actual and forecasted amount of SO2 and PM10 for 200 days :  
+![image](https://user-images.githubusercontent.com/44861408/135467232-f43fd1a5-5d78-41c3-ad90-1459cf6beffb.png)  
+  
+![image](https://user-images.githubusercontent.com/44861408/135467325-9e86e2bb-7c54-4c0c-b489-69db8dcecc24.png)
+
+
+
 
 ## Check for Serial Correlation of Residuals  
 
