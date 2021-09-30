@@ -74,6 +74,8 @@ added to the train dataset.
 
 To select proper order for VAR model, we use AIC criteria. 
 We test orders from 1 to 100 and find AIC for each of them and 
-then select the order which has the minimum AIC. In Fig 1 the 
+then select the order which has the minimum AIC. In Fig bellow the 
 value of AIC criteria for orders in range of 1 to 100 in shown. 
-Minimum AIC occurs at the lag order of 6.
+Minimum AIC occurs at the lag order of 6.  
+![image](https://user-images.githubusercontent.com/44861408/135466048-a0ccd24f-1c90-4442-a08a-15e6f89f42f6.png)
+
