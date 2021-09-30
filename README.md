@@ -131,40 +131,51 @@ https://ieeexplore.ieee.org/document/9349617
 ## Refrences:  
 [1] W. J. M. X. a. L. H. L., "Air Pollution Forecasts: An 
 Overview," International Journal of Environmental 
-Research and Public Health, pp. 154-780, 2018. 
+Research and Public Health, pp. 154-780, 2018.  
+
 [2] G. B. S. M. S. F. S. A.-M. I. P. F. C. L. L. G. S. &. F. F. 
 Viegi, "Health effects of air pollution: a Southern 
-European perspective," Chinese medical journal, 2020. 
+European perspective," Chinese medical journal, 2020.   
+
 [3] D. P. a. A. J. N. Tomar, "Air Quality Index Forecasting 
 using Auto-regression Models," in IEEE International 
 Students' Conference on Electrical,Electronics and 
-Computer Science (SCEECS), Bhopal, India, 2020. 
+Computer Science (SCEECS), Bhopal, India, 2020.   
+
 [4] U. &. J. V. Kumar, "ARIMA forecasting of ambient air 
 pollutants (O3, NO, NO2 and CO)," Stochastic 
-Environmental Research and Risk Assessment, 2010. 
+Environmental Research and Risk Assessment, 2010.   
+
 [5] J. J. S. &. N. N. Qiu, " Multivariate time series analysis 
 from a Bayesian machine learning perspective," Ann 
-Math Artif Intell, p. 1061–1082, 2020. 
+Math Artif Intell, p. 1061–1082, 2020.   
+
 [6] C. Sims, "Macroeconomics and Reality," Econometrica, 
-pp. 1-48, 1980. 
+pp. 1-48, 1980.   
+
 [7] H. Wai Lun, "Application Of Vector Autoregressive 
 Models To Hong Kong Air Pollution Data," september 
-2004. 
+
+
 [8] T. A. G. D. S. B. Abhilash M.S.K., "Time Series 
 Analysis of Air Pollution in Bengaluru Using ARIMA 
-Model," springer, vol. 696, 2018. 
+Model," springer, vol. 696, 2018.   
+
 [9] C. G. Kwang-Jing Yii, "The Nexus between Technology 
 Innovation and CO2 Emissions in Malaysia: Evidence 
 from Granger Causality Test," Energy Procedia, vol. 
-105, pp. 3118-3124, 2017. 
+105, pp. 3118-3124, 2017.   
+
 [10] C. I. C. P. A. &. R. N. Pardo Martinez, "An analysis for 
 new institutionality in science, technology and 
 innovation in Colombia using a structural vector 
 autoregression model," European Research Studies 
-Journal, vol. 22, no. 2, pp. 218-228, 2019. 
+Journal, vol. 22, no. 2, pp. 218-228, 2019.   
+
 [11] S. Portet, "A primer on model selection using the 
 Akaike Information Criterion," Infectious Disease 
-Modelling, vol. 5, pp. 111-128, 2020. 
+Modelling, vol. 5, pp. 111-128, 2020.   
+
 [12] B. &. B. J. Born, "Testing for Serial Correlation in 
 Fixed-Effects Panel Data Models," Econometric 
 Reviews, 2015.
