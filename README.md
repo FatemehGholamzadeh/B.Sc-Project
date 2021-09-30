@@ -79,3 +79,14 @@ value of AIC criteria for orders in range of 1 to 100 in shown.
 Minimum AIC occurs at the lag order of 6.  
 ![image](https://user-images.githubusercontent.com/44861408/135466048-a0ccd24f-1c90-4442-a08a-15e6f89f42f6.png)
 
+## Evaluation of model  
+
+The resulted RMSEs from applying VAR and Auto
+Regression (AR) model are given in the Table bellow. In an AR 
+model, we forecast one variable using a linear combination of its 
+past values. It means that in AR model, we do not consider 
+impact of variables on each other and each variable is forecasted 
+only with its own past values. Also, in table, for every variable in the VAR model, we 
+listed variables that are a cause for it. As you can see in the Table, the RMSEs of VAR model are less than AR model.  
+![image](https://user-images.githubusercontent.com/44861408/135466471-a62f6c62-c8bf-4e2d-99f3-b028a5e6c48c.png)
+
