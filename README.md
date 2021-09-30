@@ -33,9 +33,10 @@ recommended.
   
 A multivariate time series is a time series which has more 
 than one time-independent variable. Each variable depends on 
-its past values and also on the past values of other variables [5].
+its past values and also on the past values of other variables.
 Vector auto regression (VAR) model is a method for predicting 
-such time series.
+such time series.  
+
 Our dataset includes recorded amounts of pollutants like PSI
 (Pollutant Standards Index), CO, O3, NO2, SO2, PM10
 (particulate matter with a diameter of 10 micrometers or less), 
@@ -47,7 +48,8 @@ modeling the data with VAR models, some tests should be done
 on the dataset. First of all, the stationarity of data should be 
 checked. To this end, we use unit root test. Then, the causality 
 of the variables (amount of different air pollutants) should be 
-investigated. We use Granger causality test. 
+investigated. We use Granger causality test.  
+
 For selecting the proper order of model, we used the 
 Akaike’s Information Criterion (AIC). Also, after applying the 
 model, we check its compatibility with data. Using Durbin 
