@@ -100,3 +100,16 @@ autocorrelation left in the residuals and so the compatibility
 between VAR model and our data is confirmed.  
 ![image](https://user-images.githubusercontent.com/44861408/135466751-2127d3c4-6d1e-47c8-a0af-1d2e6cf1c822.png)
 
+## CONCLUSION  
+
+Air pollution has become a serious concern in 21st century. 
+Importance of forecasting air pollution is not ignorable. In this 
+paper we tried to get use of correlation between different air 
+pollutants and build a VAR model based on them. We used
+Granger causality test to find causality relations between our 
+variables for a better prediction. The study showed that because 
+of impact of air pollutants on each other, applying multivariate 
+approaches like VAR model has a good performance and can 
+reduce forecasting errors.
+Acknowledgments: This work is funded by Tehran Center
+for Urban Statistics and Observatory (contract No. 250/46035).
