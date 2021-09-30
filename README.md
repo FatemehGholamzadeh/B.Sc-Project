@@ -128,7 +128,7 @@ this work was published in 2020 6th Iranian Conference on Signal Processing and 
 ### IEEE link:  
 https://ieeexplore.ieee.org/document/9349617  
 
-## Refrences:  
+## References:  
 [1] W. J. M. X. a. L. H. L., "Air Pollution Forecasts: An 
 Overview," International Journal of Environmental 
 Research and Public Health, pp. 154-780, 2018.  
