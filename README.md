@@ -19,4 +19,14 @@ right variables in our model, we will use a causality test.
 Experimental results demonstrate the high efficiency of the 
 proposed approach in forecasting the concentrations of air 
 pollutions in Tehran city.
-  
+    
+## Introduction 
+
+Our dataset contains the concentrations of different air 
+pollutants from several stations in the city of Tehran. By 
+performing some tests such as causality test, it was deduced that 
+pollutants of a given station have some impact on each other and 
+also on pollutants of nearby stations. So in this paper we are 
+going to capture these correlations to improve the accuracy of 
+forecasting. For this purpose, multivariate approach is 
+recommended.
