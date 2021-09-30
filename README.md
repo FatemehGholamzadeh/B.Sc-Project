@@ -55,4 +55,25 @@ Akaike’s Information Criterion (AIC). Also, after applying the
 model, we check its compatibility with data. Using Durbin 
 Watson test confirms this compatibility. Experimental results 
 demonstrate the high efficiency of the proposed method in 
-predicting air pollutants.
+predicting air pollutants.  
+
+## Train and Test Dataset  
+
+The criteria used to measure the forecasting accuracy is root 
+mean square error (RMSE). We will do one-step ahead forecasts 
+for 200 times and every time we will add one row to the train 
+dataset. It means that for example at first time, rows from 1 to 
+992 are train dataset, 993th row is test dataset and we forecast 
+993th row and calculate the error, then at second time rows from 
+1 to 993 are train dataset and 994th row is test dataset then we 
+forecast 994th row and calculate the error and etc. Rows from 1 
+to 992 are always in the train dataset and every time one row is 
+added to the train dataset.  
+
+## Select Order of VAR Model  
+
+To select proper order for VAR model, we use AIC criteria. 
+We test orders from 1 to 100 and find AIC for each of them and 
+then select the order which has the minimum AIC. In Fig 1 the 
+value of AIC criteria for orders in range of 1 to 100 in shown. 
+Minimum AIC occurs at the lag order of 6.
