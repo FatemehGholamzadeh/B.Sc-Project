@@ -120,4 +120,12 @@ of impact of air pollutants on each other, applying multivariate
 approaches like VAR model has a good performance and can 
 reduce forecasting errors.
 Acknowledgments: This work is funded by Tehran Center
-for Urban Statistics and Observatory (contract No. 250/46035).
+for Urban Statistics and Observatory (contract No. 250/46035).  
+  
+## published paper:  
+this work was published in 2020 6th Iranian Conference on Signal Processing and Intelligent Systems (ICSPIS) and indexed in IEEE.  
+
+### IEEE link:  
+https://ieeexplore.ieee.org/document/9349617
+
+
