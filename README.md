@@ -90,3 +90,13 @@ only with its own past values. Also, in table, for every variable in the VAR mod
 listed variables that are a cause for it. As you can see in the Table, the RMSEs of VAR model are less than AR model.  
 ![image](https://user-images.githubusercontent.com/44861408/135466471-a62f6c62-c8bf-4e2d-99f3-b028a5e6c48c.png)
 
+## Check for Serial Correlation of Residuals  
+
+After fitting our model, we used Durbin Watson test to check 
+if there is any autocorrelation in the residuals. The results from 
+the test are given in Table bellow. All the numbers are very close to 
+number 2 or equal to it. This means that there is not any 
+autocorrelation left in the residuals and so the compatibility 
+between VAR model and our data is confirmed.  
+![image](https://user-images.githubusercontent.com/44861408/135466751-2127d3c4-6d1e-47c8-a0af-1d2e6cf1c822.png)
+
